@@ -1,6 +1,6 @@
 # XASX-Model
 
-This is the implementions for the paper work of "Highly-Accurate Electricity Load Forecasting via Knowledge Aggregation"
+This is the implementions for the paper titled "Highly-Accurate Electricity Load Forecasting via Hybrid Machine Learning"
 ## Brief Introduction
 
  This paper proposes a novel hybrid LF model, named XASX. Its main idea is two-fold: 1) it exploits domain knowledge to decompose the raw load series in-to three independent components of trendiness, seasonality, and irregularity, and 2) individualized ML models are established to capture the sequential patterns of each decomposed component.Four real-world datasets gathering the historical power consumption of Chinese cities are adopted to benchmark the empirical studies. The results substantiate that our model outperforms nine state-of-the-art LF competitors, including both classic time-series and ML models in terms of higher accuracy and less forecasting bias. 
